@@ -1,1 +1,1 @@
-portada2.gif
+![alt tag](portada2.gif)
