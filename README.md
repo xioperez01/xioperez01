@@ -1,9 +1,6 @@
-# :ribbon: I'am Xiomara Pérez (Xio :wink: ) :ribbon: #
 <p align="center">
-  <img with="360" height=360 src="https://i.ibb.co/NTv5c66/portada.gif" alt="portada" border="0">
+  <img with="500" height=360 src="https://github.com/xioperez01/xioperez01/blob/master/imagen.gif" alt="portada" border="0">
 </p>
 
-## I am a full stack student at Holberton and a civil engineering student at UPTC :monocle_face: ##
-
-The world should be a place where the sun shines for everyone and where technology is capable of improving life in all its forms!
+<p style="font-weight: bold; text-align: center; font-style: oblique: font-size: 30px;" >The world should be a place where the sun shines for everyone and where technology is capable of improving life in all its forms!</p>
 # :open_hands: :earth_americas: :open_hands: #
