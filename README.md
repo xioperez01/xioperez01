@@ -27,7 +27,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/xio-perez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@xio-perez" height="30" width="40" /></a>
 <a href="https://twitter.com/xiommyperez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xiommyperez" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/angie-xiomara-perez-munoz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="angie pérez" height="30" width="40" /></a>
 <a href="https://instagram.com/perez_xio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="perez_xio" height="30" width="40" /></a>
