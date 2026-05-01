@@ -1,7 +1,11 @@
 <h1 align="center">Angie Pérez</h1>
 
 <p align="center">
-Turning ideas into real products — from concept to production.
+  <img src="https://raw.githubusercontent.com/xioperez01/xioperez01/master/Angie%20Banner.png" alt="Angie Pérez banner" width="100%" />
+</p>
+
+<p align="center"> 
+ 🚀🚀 Turning ideas into real products — from concept to production. 🚀🚀
 </p>
 
 ---
